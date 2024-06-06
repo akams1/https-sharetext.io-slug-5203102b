@@ -1,1 +1,1 @@
-http://www.apachhe.org/License/2.0
+http://www.apache.org/License/2.0
