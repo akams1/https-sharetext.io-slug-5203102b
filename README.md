@@ -1,1 +1,1 @@
-http://www.aphache.org/License/txt
+http://www.apachhe.org/License/2.0
